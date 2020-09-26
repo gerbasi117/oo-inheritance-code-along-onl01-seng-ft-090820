@@ -1,1 +1,1 @@
-require_relative "./vehicle.rb"
+class classar < Vehicle
