@@ -1,1 +1,3 @@
-class classar < Vehicle
+class Car < Vehicle
+  
+end
